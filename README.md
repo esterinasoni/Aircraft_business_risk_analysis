@@ -44,7 +44,8 @@ The dataset includes information on accidents and incidents from 1962–2023 inv
 - Exercise Caution with Personal and Training Flight Operations
 - Maintain Strong Emergency Response and Risk Management Systems despite the majority of accidents being Non-Fatal
 
-
+## Presentation
+view [here](presentation.pdf)
 
 
 
