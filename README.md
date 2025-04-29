@@ -45,7 +45,7 @@ The dataset includes information on accidents and incidents from 1962–2023 inv
 - Maintain Strong Emergency Response and Risk Management Systems despite the majority of accidents being Non-Fatal
 
 ## Presentation
-view [here](presentation.pdf)
+view non technical presentation [here](presentation.pdf)
 
 
 
